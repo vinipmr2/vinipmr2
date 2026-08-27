@@ -30,9 +30,6 @@
 ```
 drwxr-xr-x  kivo/       →  SaaS multi-tenant para gestão de barbearias
                             (agenda, clientes, comissões, estoque, WhatsApp)
-
-drwxr-xr-x  zaphook/    →  Webhook as a Service para eventos da WhatsApp Cloud API
-                            (produto real de mercado, arquitetura com observabilidade)
 ```
 
 <br>
